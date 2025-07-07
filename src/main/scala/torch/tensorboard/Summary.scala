@@ -12,7 +12,10 @@
  * License for the specific language governing permissions and limitations under
  * the License.
  */
-
+//https://github.com/tensorflow/java/blob/master/tensorflow-core/tensorflow-core-api/src/gen/java/org/tensorflow/op/summary/MergeSummary.java
+//https://github.com/karllessard/tensorflow-models/blob/20b13c2227b66cef4cb018220797e11df62a8422/samples/languages/java/suite/src/main/java/org/tensorflow/model/sample/mnist/MnistWithSummaries.java#L146
+//https://blog.csdn.net/thy0000/article/details/135962956
+//https://github.com/spotify/scio/blob/main/scio-tensorflow/src/main/scala/com/spotify/scio/tensorflow/TFRecordIO.scala
 package torch.tensorboard
 
 import org.platanios.tensorflow.api.core.{Graph, Shape}
