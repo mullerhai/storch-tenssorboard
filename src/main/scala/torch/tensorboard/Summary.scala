@@ -16,6 +16,8 @@
 //https://github.com/karllessard/tensorflow-models/blob/20b13c2227b66cef4cb018220797e11df62a8422/samples/languages/java/suite/src/main/java/org/tensorflow/model/sample/mnist/MnistWithSummaries.java#L146
 //https://blog.csdn.net/thy0000/article/details/135962956
 //https://github.com/spotify/scio/blob/main/scio-tensorflow/src/main/scala/com/spotify/scio/tensorflow/TFRecordIO.scala
+//https://github.com/pytorch/pytorch/blob/main/torch/utils/tensorboard/writer.py
+//https://github.com/tensorflow/tensorboard/blob/master/tensorboard/compat/proto/histogram.proto
 package torch.tensorboard
 
 import org.platanios.tensorflow.api.core.{Graph, Shape}
